@@ -1,8 +1,8 @@
 # InstantRDV for Unreal Engine
 
-[English](README.md) | [日本語](README.ja.md)
+[English](README.md) | [日本語](README.ja.md) | [한국어](README.ko.md)
 
-本リポジトリには、InstantRDV デモ実装の Unreal Engine 5.8 向けプラグインとサンプルプロジェクトを含みます。
+本ブランチには、Unreal Engine 5.8 から 6.0 へ移行した InstantRDV デモ実装のプラグインとサンプルプロジェクトを含みます。
 
 InstantRDV はラスタライズ描画パイプラインの成果物から GPU voxel scene を逐次構築・維持する仕組みです。
 RdvGI は InstantRDV を利用したリアルタイム GI のデモ実装です。ハードウェアレイトレーシングは使用しません。

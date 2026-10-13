@@ -1,8 +1,8 @@
 ﻿# InstantRDV for Unreal Engine
 
-[English](README.md) | [日本語](README.ja.md)
+[English](README.md) | [日本語](README.ja.md) | [한국어](README.ko.md)
 
-This repository contains an Unreal Engine 5.8 plugin and sample project for the InstantRDV technical demo.
+This branch contains an Unreal Engine 6.0 plugin and sample project for the InstantRDV technical demo, migrated from Unreal Engine 5.8.
 
 InstantRDV incrementally constructs and maintains a GPU voxel scene from rasterization pipeline outputs. RdvGI is a real-time global illumination demo built on InstantRDV. It does not use hardware ray tracing.
 
