@@ -8,8 +8,8 @@ public class InstantRdvSampleEditorTarget : TargetRules
 	public InstantRdvSampleEditorTarget( TargetInfo Target) : base(Target)
 	{
 		Type = TargetType.Editor;
-		DefaultBuildSettings = BuildSettingsVersion.V7;
-		IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_8;
+		DefaultBuildSettings = BuildSettingsVersion.V9;
+		IncludeOrderVersion = EngineIncludeOrderVersion.Unreal6_0;
 		ExtraModuleNames.Add("InstantRdvSample");
 	}
 }
